@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Riki
 
 With over five years of experience in the technology industry at Accenture, I possess diverse expertise as a software engineer, including web development, robotic process automation, and optimizing client operations using various technologies. 
 Additionally, I enhanced my skills by learning web development in Canada, which broadened my technical knowledge and exposed me to different cultural perspectives.
