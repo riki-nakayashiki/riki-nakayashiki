@@ -32,11 +32,15 @@ Through the integration of these experiences, I provide a comprehensive understa
 ## 🔗Links
 <ul>
     <li>
-        <a href="www.linkedin.com/in/riki-nakayashiki">LinkedIn</a>
+        <h3>
+            <a href="https://www.linkedin.com/in/riki-nakayashiki/">LinkedIn</a>
+        </h3>
     </li>
     <li>
-        <a
-            href="https://drive.google.com/file/d/1vwO1dz49O3l6PFTpkLdfV6N53f2uMwae/view?usp=sharing">Resume</a>
+        <h3>
+            <a
+                href="https://drive.google.com/file/d/1vwO1dz49O3l6PFTpkLdfV6N53f2uMwae/view?usp=sharing">Resume</a>
+        </h3>
     </li>
 </ul>
 
