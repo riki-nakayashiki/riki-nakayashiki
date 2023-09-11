@@ -39,7 +39,7 @@ Through the integration of these experiences, I provide a comprehensive understa
     <li>
         <h3>
             <a
-                href="[https://drive.google.com/file/d/1vwO1dz49O3l6PFTpkLdfV6N53f2uMwae/view?usp=sharing](https://drive.google.com/file/d/1-H6aQG2tjEwpwQn7he2wE2SUANfGmbP9/view?usp=sharing)">Resume</a>
+                href="https://drive.google.com/file/d/1-H6aQG2tjEwpwQn7he2wE2SUANfGmbP9/view?usp=sharing">Resume</a>
         </h3>
     </li>
 </ul>
