@@ -39,6 +39,12 @@ Through the integration of these experiences, I provide a comprehensive understa
     <li>
         <h3>
             <a
+                href="https://portfolio-48691.web.app/">Portfolio</a>
+        </h3>
+    </li>
+    <li>
+        <h3>
+            <a
                 href="https://drive.google.com/file/d/11wpjBKyiXnC0jIBzvDCHhLm57grbm8zR/view?usp=sharing">Resume</a>
         </h3>
     </li>
