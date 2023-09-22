@@ -33,19 +33,19 @@ Through the integration of these experiences, I provide a comprehensive understa
 <ul>
     <li>
         <h3>
-            <a href="https://www.linkedin.com/in/riki-nakayashiki/" target="_blank">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/riki-nakayashiki/">LinkedIn</a>
         </h3>
     </li>
     <li>
         <h3>
             <a
-                href="https://portfolio-48691.web.app/" target="_blank">Portfolio</a>
+                href="https://portfolio-48691.web.app/">Portfolio</a>
         </h3>
     </li>
     <li>
         <h3>
             <a
-                href="https://drive.google.com/file/d/11wpjBKyiXnC0jIBzvDCHhLm57grbm8zR/view?usp=sharing" target="_blank">Resume</a>
+                href="https://drive.google.com/file/d/11wpjBKyiXnC0jIBzvDCHhLm57grbm8zR/view?usp=sharing">Resume</a>
         </h3>
     </li>
 </ul>
